@@ -1,0 +1,40 @@
+
+.header{
+    display: flex;
+    margin-left: 5rem;
+   
+   
+}
+
+.serch{
+    padding: 10px 12px;
+    display: flex;
+    align-items: center ;
+    border-radius:5px;
+    color: grey;
+    background-color:#eef3f8;
+    width: 16.625rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    justify-content: center;
+    margin-left: 1.7rem;
+   
+    
+   
+
+  
+}
+.input{
+  border:none;
+  outline:none;
+  background: none;
+  width: 500px;
+  justify-content: center;
+  padding: 0 8px;
+ 
+  
+}
+
+::-webkit-input-placeholder { /* Edge */
+    font-weight:400;
+  }
